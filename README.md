@@ -59,21 +59,21 @@ Nombre           | Email
 ## Contenidos
 
 Semana	| Contenido clase						  |	Ayudantía | Evaluaciones 
---------|-----------------------------------------|-------------------------------------------------------------------
-#1      |Introducción, Modelo relacional		  | | 
-#2      |Álgebra relacional 					  |	Ayudantía 1 (C1) | 
+--------|-----------------------------|------------|-------------------------------------------------------------------
+#1      |Introducción, Modelo relacional		  |     |  
+#2      |Álgebra relacional 					  |	Ayudantía 1 (C1) |  
 #3      |SQL                               	  |	Ayudantía 2 (Servidor) | C1
-#4      |SQL Avanzado 				                      | | 
+#4      |SQL Avanzado 				                      |  |  
 #5      |Modelo ER I 			  |     | P1 (Entrega)
 #6      |Modelo ER II 			  |     | 
-#7      |Dependencias, Anomalías,  normales |	Ayudantía 3 (PHP)     | 
+#7      |Dependencias, Anomalías,  normales |	Ayudantía 3 (PHP)     |  
 #8      |Lógica en la BD						  |     | C2
-#9      |Storage, Indexing               		  | Ayudantía 4 (P2)     | 
-#10      |Evaluación de consultas							  |	     | P2 (Entrega)
+#9      |Storage, Indexing               		  | Ayudantía 4 (P2)     |  
+#10     |Evaluación de consultas							  |	     | P2 (Entrega)
 #11     |Transacciones y recuperación de fallas   |     | 
-#12     |Data Science y SQL						  |     | 
-#13     |NoSQL			  |     | C3
-#14     |Data Engineering								  |     | 
+#12     |Data Science y SQL						  |     |  
+#13     |NoSQL			  |     | C3 
+#14     |Data Engineering								  |     |  
 #15     |No hay clases							  |     | P3 (Entrega)
 
 ### Bibliografía 
