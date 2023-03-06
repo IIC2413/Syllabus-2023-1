@@ -76,7 +76,7 @@ Semana	| Contenido clase						  |	Ayudantía | Evaluaciones
 #14     |Data Engineering								  |     |  
 #15     |No hay clases							  |     | P3 (Entrega)
 
-(*) Significa la materia que se evaluará en el examen final.
+(*) Significa la materia que se evaluará en el examen final. Fecha de examen final: 04--Julio--2023
 
 ### Bibliografía 
 - Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke.
@@ -95,7 +95,7 @@ Fecha      | Evaluación
   | Entrega C2
    | Enunciado C3
   | Entrega C3
- 
+  | Examen
 
 
 ### Proyecto
