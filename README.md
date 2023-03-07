@@ -91,8 +91,8 @@ Semana	| Contenido clase						  |	Ayudantía | Evaluaciones
 
 Fecha      | Evaluación
 -----------|------------
-   | Enunciado C1
-   | Entrega C1
+ 20 - 03 -2023  | Enunciado C1
+ 22 - 03 -2023 | Entrega C1
   | Enunciado C2
   | Entrega C2
    | Enunciado C3
