@@ -52,7 +52,8 @@ Nombre           | Email
 [apimentel@uc.cl]: mailto:apimentel@uc.cl
 [vecalisto@uc.cl]: mailto:vecalisto@uc.cl
 
-[francisca.ancic@uc.cl]: mailto:arpincheira@uc.cl
+[francisca.ancic@uc.cl]: mailto:francisca.ancic@uc.cl
+[lucas.fernndez@uc.cl]:mailto:lucas.fernndez@uc.cl
 
 
 ---
