@@ -38,6 +38,7 @@ Domagoj Vrgoč         | 3       | [dvrgoc@ing.puc.cl]
 Nombre           | Rol      | Email
 ---------------- |--------- | ----------------
 Francisca Ancic | Proyecto | [francisca.ancic@uc.cl]
+Lucas Fernández | Cátedra  | [lucas.fernndez@uc.cl]
 
 #### Ayudantes
 
