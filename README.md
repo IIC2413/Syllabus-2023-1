@@ -106,10 +106,10 @@ Fecha      | Evaluación
 -----------|------------
 24 - 03 - 2023   | Enunciado P1
  7 - 04 - 2023  | Entrega P1
-  | Enunciado P2
-   | Entrega P2
-   | Enunciado P3
-   | Entrega P3
+21 - 04 - 2023  | Enunciado P2
+19 - 05 - 2023  | Entrega P2
+26 - 05 - 2023   | Enunciado P3
+23 - 06 -2023   | Entrega P3
 
 
 ---
