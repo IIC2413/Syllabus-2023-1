@@ -44,7 +44,24 @@ Lucas Fernández | Cátedra  | [lucas.fernndez@uc.cl]
 
 Nombre           | Email
 ---------------- | ----------------
-  | 
+Diego Andrés Astudillo Vergara	|  diego.astudillo@uc.cl 
+Francisco Antonio Doberti Zerega  |	fadoberti@uc.cl 
+Asunción Domínguez Ponce De León  |	adominguez18@uc.cl  
+Raimundo Javier Escalona Santibáñez	 |  rjescalona@uc.cl 
+Juan Ignacio Fernández Galaz	|  jfernaandez@uc.cl 
+Bryan Fry Kattan	| bfry@uc.cl  
+Raimundo Fuchslocher Díaz	| rfuchslocher@uc.cl 
+Paul Ian Mac-Guire Macchiavello	| paul.macguire@uc.cl  
+Ignacio Manuel Mejías Salinas	| imejiass@uc.cl 
+Diego Pablo Milla González	| diego.milla@uc.cl 
+Javier Enrique Poblete López	| jpobletel@uc.cl
+Vicente Thomas Labarthe	| vicente.thomas@uc.cl 
+Nicolás Rafael García Espíndola	| nicolas.garcia@uc.cl
+Pablo Antonio Aldana Valverde	| pablo.aldana@uc.cl   
+Nicole Macarena Larenas Barrera	| nlarenasb@uc.cl 
+Nicolas Ignacio Olmos Quiroga	| nicolas.olmos@uc.cl   
+Ricardo Nicolás Oviedo Ayala	| ricardo.oviedo@uc.cl
+Ignacio Antonio Monardes Silva	| iamonardes@uc.cl
 
 
 
