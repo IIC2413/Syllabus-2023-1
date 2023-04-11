@@ -83,8 +83,8 @@ Semana	| Contenido clase						  |	Ayudantía | Evaluaciones
 #2      |Álgebra relacional (*)					  |	Ayudantía 1 (C1) |  
 #3      |SQL (*)                              	  |	Ayudantía 2 (Servidor) | C1, P1 (Enunciado)
 #4      |SQL Avanzado (*)				                      |  |  
-#5      |Modelo ER I 			  |     | P1 (Entrega)
-#6      |Modelo ER II 			  |     | 
+#5      |Modelo ER I 			  |     | 
+#6      |Modelo ER II 			  |     | P1 (Entrega)
 #7      |Dependencias, Anomalías,  normales |	Ayudantía 3 (PHP)     |  P2 (Enunciado)
 #8      |Lógica en la BD						  |     | C2
 #9      |Storage, Indexing   (*)            		  | Ayudantía 4 (P2)     |  
