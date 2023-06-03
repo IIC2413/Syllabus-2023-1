@@ -112,8 +112,8 @@ Fecha      | Evaluación
  22 - 03 - 2023 | Entrega C1
 26 - 04 - 2023  | Enunciado C2
 28 - 04 - 2023  | Entrega C2
-**14 - 06 - 2023   | Enunciado C3**
-**16 - 06 - 2023  | Entrega C3**
+**14 - 06 - 2023**   | Enunciado C3
+**16 - 06 - 2023**  | Entrega C3
 4 - 07 - 2023  | Examen
 
 
@@ -126,7 +126,7 @@ Fecha      | Evaluación
 21 - 04 - 2023  | Enunciado P2
 19 - 05 - 2023  | Entrega P2
 26 - 05 - 2023   | Enunciado P3
-**26 - 06 -2023   | Entrega P3**
+**26 - 06 -2023**   | Entrega P3
 
 
 ---
