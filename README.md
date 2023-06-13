@@ -89,11 +89,13 @@ Semana	| Contenido clase						  |	Ayudantía | Evaluaciones
 #8      |Lógica en la BD						  |     | C2
 #9      |Storage, Indexing   (*)            		  | Ayudantía 4 (P2)     |  
 #10     |Evaluación de consultas		(*)					  |	     | P2 (Entrega)
-#11     |Transacciones y recuperación de fallas  (*) |     |  P3 (Enunciado)
-#12     |Data Science y SQL						  |     |  
-#13     |NoSQL			  |     | C3 
-#14     |Data Engineering								  |     |  
-#15     |No hay clases							  |     | P3 (Entrega)
+#11     |Data Science y SQL						  |     |  P3 (Enunciado)
+#12     |Transacciones (*) |     |
+#13     |Recuperación de fallas (*) |     |
+#14     |NoSQL			  |     | C3 
+#15     |Bases de datos de grafos								  |     | P3 (Entrega)  
+#16     |No hay clases								  |     | 
+
 
 (*) Significa la materia que se evaluará en el examen final. Fecha de examen final: 04 - Julio - 2023
 
